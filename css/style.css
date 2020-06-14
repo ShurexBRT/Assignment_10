@@ -1,0 +1,7 @@
+/**********************HERO SECTION************************/
+
+#hero-section {
+    background-image: url(../imgs/hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
